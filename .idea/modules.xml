@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-rpc.iml" filepath="$PROJECT_DIR$/my-rpc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-rpc-core/my-rpc-core.iml" filepath="$PROJECT_DIR$/my-rpc-core/my-rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protocol/protocol.iml" filepath="$PROJECT_DIR$/protocol/protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testclient/testclient.iml" filepath="$PROJECT_DIR$/testclient/testclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-common/testcommon.iml" filepath="$PROJECT_DIR$/test-common/testcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testserver/testserver.iml" filepath="$PROJECT_DIR$/testserver/testserver.iml" />
     </modules>
   </component>
 </project>
